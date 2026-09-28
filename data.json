@@ -1,0 +1,321 @@
+{
+  "site": {
+    "name": "No School Media",
+    "short": "NS/M",
+    "title": "No School Media — Cinematic Production, Abu Dhabi & Dubai",
+    "description": "Cinematic videography, photography, color grading and AI synthetic media. Abu Dhabi / Dubai.",
+    "year": "2026",
+    "base": "Abu Dhabi, UAE",
+    "email": "hello@noschool.media",
+    "availability": "Next available • June 2026"
+  },
+  "hero": {
+    "eyebrow": "Abu Dhabi / Dubai • Cinematic • 2024—2026",
+    "title": "Content is everywhere. Impact is rare.",
+    "tagline": "No School is not a tutorial channel. It's a production studio that happens to teach.",
+    "cta_primary": "View Work",
+    "cta_secondary": "Book Shoot",
+    "reel_id": "8wClYidcqKA",
+    "reel_label": "Showreel 2024-2026",
+    "spec": "4K NLOG • Nikon Z6III"
+  },
+  "clients": [
+    "Parker Russell",
+    "PAVEGEN",
+    "EMME",
+    "ADNEC",
+    "Alain Water",
+    "Flux JR"
+  ],
+  "work": {
+    "heading": "Selected work",
+    "intro": "Click any poster to play. Thumbnail first, no autoplay on load."
+  },
+  "services": {
+    "heading": "Work that hits.",
+    "intro": "No templates. No stock. Every deliverable graded in DaVinci, shot NLOG 12-bit on Nikon Z6III, edited to cut through feed noise.",
+    "items": [
+      "Cinematic Videography",
+      "Professional Photography",
+      "Graphic Design",
+      "Motion Design",
+      "Color Grading",
+      "AI Synthetic Media"
+    ]
+  },
+  "about": {
+    "heading": "David Mendoza",
+    "role": "Founder, No School Media",
+    "meta": [
+      "Abu Dhabi based • Dubai + worldwide",
+      "Daily content • 3-5x weekly drops"
+    ],
+    "paragraphs": [
+      "No School started because film school teaches theory. Clients pay for impact.",
+      "I'm David — founder, shooter, editor, colorist. Based in Abu Dhabi, working Dubai and beyond. I built No School Media as an interactive, positive environment with rich content — but the YouTube channel is not the business.",
+      "We create daily. One day it's a corporate film for Parker Russell in Dubai. Next it's PAVEGEN at ADNEC, EMME event coverage, or synthetic product work for Alain Water."
+    ],
+    "manifesto": [
+      "If it looks like everyone else's, we didn't do our job.",
+      "No stock, no templates, no tutorial watermark energy.",
+      "Grade matters more than gear.",
+      "Speed wins — same-week delivery when booked ahead.",
+      "We collaborate, not freelance-and-ghost."
+    ],
+    "timeline": [
+      [
+        "2021",
+        "Started No School YouTube"
+      ],
+      [
+        "2024",
+        "Nikon Z6III + NLOG shift"
+      ],
+      [
+        "2026",
+        "V3 cinematic player"
+      ]
+    ]
+  },
+  "contact": {
+    "heading": "Let's make something that hits.",
+    "intro": "Tell us shoot date, deliverables. We reply same day.",
+    "location": "Abu Dhabi, UAE — available worldwide • remote color & edit"
+  },
+  "socials": [
+    {
+      "label": "IG",
+      "handle": "@noschoolmedia",
+      "href": "https://www.instagram.com/noschoolmedia/",
+      "name": "Instagram"
+    },
+    {
+      "label": "YT",
+      "handle": "@noschoolmedia6449",
+      "href": "https://www.youtube.com/@noschoolmedia6449",
+      "name": "YouTube"
+    },
+    {
+      "label": "TT",
+      "handle": "@noschoolmedia",
+      "href": "https://www.tiktok.com/@noschoolmedia",
+      "name": "TikTok"
+    },
+    {
+      "label": "FB",
+      "handle": "noschoolmedia",
+      "href": "https://www.facebook.com/noschoolmedia",
+      "name": "Facebook"
+    }
+  ],
+  "videos": [
+    {
+      "id": "8wClYidcqKA",
+      "title": "Showreel 2024-2026",
+      "client": "No School Media",
+      "type": "Brand Film",
+      "location": "Abu Dhabi",
+      "year": "2026",
+      "vertical": false,
+      "featured": true
+    },
+    {
+      "id": "RCO-2YGfH5k",
+      "title": "Corporate Event Dubai",
+      "client": "Parker Russell",
+      "type": "Events",
+      "location": "Dubai",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "e7iiAFGzM2o",
+      "title": "PAVEGEN ADNEC",
+      "client": "PAVEGEN",
+      "type": "Corporate",
+      "location": "Abu Dhabi",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "gvqJHp-mkdo",
+      "title": "Brand Film Cinematic",
+      "client": "No School Media",
+      "type": "Brand Film",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "GxTmXwtSIeM",
+      "title": "Color Grade & Kinetic",
+      "client": "No School Media",
+      "type": "Color",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "kuI6XtGkKa8",
+      "title": "Cinematic Short",
+      "client": "No School Media",
+      "type": "Brand Film",
+      "location": "Abu Dhabi",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "0McIJh6qMUw",
+      "title": "Event Coverage",
+      "client": "EMME",
+      "type": "Events",
+      "location": "Dubai",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "kNxQI5yxNeo",
+      "title": "Commercial Story",
+      "client": "No School Media",
+      "type": "Brand Film",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": false
+    },
+    {
+      "id": "LN3zdrYHKfM",
+      "title": "Shorts - Vertical Reel 1",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "Cn3D04EUle0",
+      "title": "Shorts - Vertical Reel 2",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "xFTdYfSknZI",
+      "title": "Shorts - Vertical Reel 3",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "-ifi01I4l6k",
+      "title": "Shorts - Vertical Reel 4",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "liejhRJ4mJQ",
+      "title": "Shorts - Vertical Reel 5",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "tNo-BngEzrc",
+      "title": "Shorts - Vertical Reel 6",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "iRzrz6NE7o4",
+      "title": "Shorts - Vertical Reel 7",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "rDtZgid8nlQ",
+      "title": "Shorts - Vertical Reel 8",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "Rakjoxj51Vo",
+      "title": "Shorts - Vertical Reel 9",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "-LNoq8GevJw",
+      "title": "Shorts - Reel 10",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "xaqiTf4qgSQ",
+      "title": "Shorts - Reel 11",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "02u4j1bd8qc",
+      "title": "Shorts - Reel 12",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "PAK0baO5TwU",
+      "title": "Shorts - Reel 13",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "l1re2M8EJAo",
+      "title": "Shorts - Reel 14",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    },
+    {
+      "id": "_s1NmObPn7s",
+      "title": "Shorts - Reel 15",
+      "client": "No School Media",
+      "type": "Shorts",
+      "location": "UAE",
+      "year": "2025",
+      "vertical": true
+    }
+  ]
+}
